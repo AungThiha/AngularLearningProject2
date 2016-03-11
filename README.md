@@ -7,4 +7,4 @@ This project is built by reading these articles
 3. [Animating AngularJS Apps: ngView](https://scotch.io/tutorials/animating-angularjs-apps-ngview)
 4. [AngularJS SEO with Prerender.io](https://scotch.io/tutorials/angularjs-seo-with-prerender-io)
 
-The app is deployed on [heroku]()
+The app is deployed on [heroku](https://rocky-wildwood-96647.herokuapp.com/)
