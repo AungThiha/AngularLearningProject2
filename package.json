@@ -1,0 +1,15 @@
+{
+  "name": "angular-learning-project2",
+  "description": "...",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "latest",
+    "prerender-node": "latest"
+  }
+}
